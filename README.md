@@ -5,4 +5,5 @@
 
 * [Установка](virtualbox/README.md) `VirtualBox`
 * [Установка](vagrant/README.md) `vagrant`
-* [Установка и использование](cleos/REDME.md) `cleos` - консольного клиента для криптовалюты EOS
+* [Установка](docker/README.md) `docker`
+* [Установка и использование](cleos/README.md) `cleos` - консольного клиента для криптовалюты EOS
